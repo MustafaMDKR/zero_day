@@ -10,6 +10,4 @@ Optional task Vagrant.
 
 
 
-![My Image](/home/dash/Pictures/Screenshots/Screenshot-from-2023-02-10 04-31-45.png)
-
-![Alt text](https://github.com/MustafaMDKR/zero_day/blob/master/Screenshot-from-2023-02-10%2004-31-45.png?raw=true "Optional title")
+- ![Alt text](https://github.com/MustafaMDKR/zero_day/blob/master/Screenshot-from-2023-02-10%2004-31-45.png?raw=true "Optional title")
